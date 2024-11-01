@@ -1,0 +1,72 @@
+# Sloth Logo Customizer.
+# Copyright (C) 2015 Ammar Shahraki Ebrahimi
+# This file is distributed under the same license as the Blog Post Filter package.
+# Ammar Shahraki Ebrahimi <ammar.shahraki@gmail.com>, 2015.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: sloth-logo-customizer\n"
+"POT-Creation-Date: 2017-06-19 15:20+0430\n"
+"PO-Revision-Date: 2017-06-19 12:38+0430\n"
+"Last-Translator: Ammar Shahraki Ebrahimi\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: fa_IR\n"
+
+# # ............................................................................
+# @ sloth-logo-customizer
+msgid "Sloth Logo Customizer"
+msgstr "شخصی ساز نشان وردپرس"
+
+# @ sloth-logo-customizer
+msgid "Sloth Logo customizer changes the wordpress logo on the login page and enable you to change the support strign and url on the blog info widget."
+msgstr "نشان وردپرس در صفحه ورود را تغییر می دهد و به شما امکان می دهد نام و نشانی پشتیبانی کننده را در ابزارک اطلاعات تغییر دهید."
+
+# @ sloth-logo-customizer
+msgid "ammar.shahraki"
+msgstr "عمار شهرکی ابراهیمی"
+
+#: my-logo.php:12
+msgid "Select a image"
+msgstr "یک تصویر را انتخاب کنید"
+
+#: setting.php:32
+msgid "Both url and title fields should have value"
+msgstr "هردو فیلد عنوان و نشانی باید مقدار داشته باشند"
+
+#: my-logo.php:41
+msgid "Login Logo"
+msgstr "نشان صفحه ورود"
+
+#: setting.php:67
+msgid "Login Page"
+msgstr "صفحه ورود"
+
+#: setting.php:71
+msgid "Sloth Developers"
+msgstr "گروه توسعه دهندگان نتبل"
+
+#: setting.php:78
+msgid "Support Section"
+msgstr "بخش پشتیبانی"
+
+#: setting.php:80
+msgid "Support URL"
+msgstr "نشانی پشتیبانی کننده"
+
+#: setting.php:83
+msgid "Support Title"
+msgstr "عنوان پشتیبانی کننده"
+
+#: setting.php:86
+msgid "Empty for wordpress default values"
+msgstr "برای مقادیر پیش فرض وردپرس خالی بگذارید"
+
+#: network-setting.php:83
+msgid "Allow blogs to override settings"
+msgstr "به وبلاگ ها اجازه تغییر تنظیمات داده شود."
